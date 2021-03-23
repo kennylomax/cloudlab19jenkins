@@ -1,0 +1,2 @@
+seed:latest
+startup-trigger-plugin:latest
